@@ -7,6 +7,6 @@ plt.hist(Marks)
 plt.xlabel('Marks')
 plt.ylabel('Count')
 
-plt.title("Frequency count of marks obtained")
+
 
 plt.show()
